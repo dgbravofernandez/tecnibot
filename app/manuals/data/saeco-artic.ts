@@ -1,0 +1,130 @@
+const manual = `--- PÁGINA 1 ---
+IBERIAN
+VENDING
+ESPAÑOL
+Jofemar
+ARTIC 272
+ARTIC
+MANUAL DE INSTRUCCIONES
+MNP02V01ESV00
+Fecha: 06-2007 Rev. 6
+Página 1 de 44
+www.iberianvending.com
+Tfno. 625 636 263
+
+--- PÁGINA 2 ---
+[TIMEOUT PÁGINA 2]
+
+--- PÁGINA 3 ---
+[TIMEOUT PÁGINA 3]
+
+--- PÁGINA 4 ---
+[TIMEOUT PÁGINA 4]
+
+--- PÁGINA 5 ---
+[TIMEOUT PÁGINA 5]
+
+--- PÁGINA 6 ---
+[TIMEOUT PÁGINA 6]
+
+--- PÁGINA 7 ---
+[TIMEOUT PÁGINA 7]
+
+--- PÁGINA 8 ---
+[TIMEOUT PÁGINA 8]
+
+--- PÁGINA 9 ---
+[TIMEOUT PÁGINA 9]
+
+--- PÁGINA 10 ---
+[TIMEOUT PÁGINA 10]
+
+--- PÁGINA 11 ---
+[TIMEOUT PÁGINA 11]
+
+--- PÁGINA 12 ---
+[TIMEOUT PÁGINA 12]
+
+--- PÁGINA 13 ---
+[TIMEOUT PÁGINA 13]
+
+--- PÁGINA 14 ---
+[TIMEOUT PÁGINA 14]
+
+--- PÁGINA 15 ---
+[TIMEOUT PÁGINA 15]
+
+--- PÁGINA 16 ---
+[TIMEOUT PÁGINA 16]
+
+--- PÁGINA 17 ---
+[TIMEOUT PÁGINA 17]
+
+--- PÁGINA 18 ---
+[TIMEOUT PÁGINA 18]
+
+--- PÁGINA 19 ---
+[TIMEOUT PÁGINA 19]
+
+--- PÁGINA 20 ---
+[TIMEOUT PÁGINA 20]
+
+--- PÁGINA 21 ---
+[TIMEOUT PÁGINA 21]
+
+--- PÁGINA 22 ---
+[TIMEOUT PÁGINA 22]
+
+--- PÁGINA 23 ---
+[TIMEOUT PÁGINA 23]
+
+--- PÁGINA 24 ---
+[TIMEOUT PÁGINA 24]
+
+--- PÁGINA 25 ---
+[TIMEOUT PÁGINA 25]
+
+--- PÁGINA 26 ---
+[TIMEOUT PÁGINA 26]
+
+--- PÁGINA 27 ---
+[TIMEOUT PÁGINA 27]
+
+--- PÁGINA 28 ---
+[TIMEOUT PÁGINA 28]
+
+--- PÁGINA 29 ---
+[TIMEOUT PÁGINA 29]
+
+--- PÁGINA 30 ---
+[TIMEOUT PÁGINA 30]
+
+--- PÁGINA 31 ---
+[TIMEOUT PÁGINA 31]
+
+--- PÁGINA 32 ---
+[TIMEOUT PÁGINA 32]
+
+--- PÁGINA 33 ---
+[TIMEOUT PÁGINA 33]
+
+--- PÁGINA 34 ---
+[TIMEOUT PÁGINA 34]
+
+--- PÁGINA 35 ---
+[TIMEOUT PÁGINA 35]
+
+--- PÁGINA 36 ---
+[TIMEOUT PÁGINA 36]
+
+--- PÁGINA 37 ---
+[TIMEOUT PÁGINA 37]
+
+--- PÁGINA 38 ---
+IBERIAN
+VENDING
+IBERIAN
+VENDING
+www.iberianvending.com
+Tfno. 625 636 263`;
+export default manual;
