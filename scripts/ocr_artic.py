@@ -12,8 +12,8 @@ import os
 PDF_PATH = r"C:\Users\dgbra\vendingbot\knowledge-base\machines\artic\artic-272.pdf"
 OUT_TS   = r"C:\Users\dgbra\vendingbot\app\manuals\data\saeco-artic.ts"
 
-# API key del .env.local
-API_KEY  = "AQ.Ab8RN6KWYg9BC5TV0vVJ8CriVlYBbmEeCNyi7bQ8WfIimjvk4g"
+# API key desde variable de entorno — nunca hardcodear claves en el código
+API_KEY  = os.environ["GEMINI_API_KEY"]
 MODEL    = "gemini-1.5-flash"  # mejor soporte OCR en free tier
 API_URL  = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={API_KEY}"
 
