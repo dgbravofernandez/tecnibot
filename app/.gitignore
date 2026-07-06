@@ -1,7 +1,0 @@
-.next/
-node_modules/
-.env.local
-*.pdf
-*.xlsx
-
-.vercel
